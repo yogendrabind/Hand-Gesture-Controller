@@ -3,5 +3,5 @@
 # Hand Gesture Controller
 
 
-<img src="main/HandGesture.png" > 
+<img src="HandGesture.png" > 
 </div>
